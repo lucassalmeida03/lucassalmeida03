@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Lucas Pires de Almeida, tenho 22 anos e sou natural de Sorocaba-SP. Sou formado na área de elétrica. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec. Gosto muito da área de tecnologia e estou buscando transição de carreira, confira meu Linkedin -> [Lucas Pires](https://www.linkedin.com/in/lucas-pires-5546a0264/)
+Me chamo Lucas Pires de Almeida, tenho 22 anos e sou natural de Sorocaba-SP. Sou formado na área de elétrica. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec. Gosto muito da área de tecnologia e estou buscando transição de carreira, confira meu Linkedin -> [Lucas Almeida](https://www.linkedin.com/in/lucas-almeida-5546a0264/)
 
 ---
 
