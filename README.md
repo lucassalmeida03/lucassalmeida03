@@ -2,8 +2,6 @@
 
 **`Desenvolvimento Full-Stack`**
 
-Me chamo Lucas Pires de Almeida, tenho 23 anos e sou natural de Sorocaba-SP. Sou formado na área de elétrica. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec. Gosto muito da área de tecnologia e estou buscando transição de carreira, confira meu Linkedin -> [Lucas Almeida](https://www.linkedin.com/in/lucas-almeida-5546a0264/)
-
 ---
 
 ### 🤖 Linguagens e tecnologias que possuo conhecimento
@@ -96,14 +94,3 @@ align="left"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <br/>
 <br/>
-
-<p>
-
-
- <img
-align="left"
-    alt="GitHub Stats"
-    height="180" 
-    style="padding-right: 10px; "
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassalmeida03&theme=tokyonight&custom_title=Tecnologias&layout=compact" />
-</p>
