@@ -1,6 +1,8 @@
 # 👨‍💻 Lucas Almeida
 
-**`Desenvolvimento Full-Stack`**
+### Olá! 👋
+
+Sou **Desenvolvedor Full Stack** focado no ecossistema JavaScript/TypeScript, atuando desde a construção de interfaces reativas até a arquitetura de APIs e modelagem de bancos de dados.
 
 ---
 
